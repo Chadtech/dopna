@@ -1,0 +1,1 @@
+This is an old project (relative to the time I am writing this readme). I was working on music software, but I needed a file format to store my music projects in. I called them Dopna files. I used C++ to read and write them. There are also C++ files in here for generating sound. I dont know what those are about, but they look like they might be handy in the future. 
