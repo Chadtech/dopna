@@ -1,0 +1,344 @@
+{
+  "name": "ca",
+  "scale": [
+    "1.0",
+    "1.125",
+    "1.25",
+    "1.33333",
+    "1.5",
+    "1.66667",
+    "1.875"
+  ],
+  "ensemble": [
+    {
+      "name": "sin0",
+      "type": "sine",
+      "xPos": "10",
+      "yPos": "10",
+      "convolve": "stPuchL.wav"
+    },
+    {
+      "name": "sin1",
+      "type": "sine",
+      "xPos": "-10",
+      "yPos": "10",
+      "convolve": "stPuchL.wav"
+    }
+  ],
+  "dimensions": [
+    "sustain",
+    "amplitude",
+    "tone",
+    "tonic"
+  ],
+  "leftConvolvement": "",
+  "rightConvolvement": "",
+  "beatLength": "2048",
+  "time": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "score": [
+    [
+      {
+        "sustain": "2048",
+        "amplitude": "0.5",
+        "tone": "40",
+        "tonic": "25"
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      }
+    ],
+    [
+      {
+        "sustain": "2048",
+        "amplitude": "0.5",
+        "tone": "50",
+        "tonic": "25"
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      },
+      {
+        "sustain": "",
+        "amplitude": "",
+        "tone": "",
+        "tonic": ""
+      }
+    ]
+  ]
+}
